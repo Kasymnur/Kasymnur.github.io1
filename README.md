@@ -2,9 +2,8 @@
 <html lang="ru">
 <head>
 <meta charset="utf-12" />
-<title></title>
 <link rel="stylesheet" type="text/css" href="mystyle.css">
-<script src="app.js"></script>
+
 
 
 
@@ -28,27 +27,7 @@
 
 <html> </html>
 <head>
-<style>
-.all-browsers {
-  margin: 0;
-  padding: 5px;
-  background-color: lightgray;
-}
 
-.all-browsers > h1, .browser {
-  margin: 10px;
-  padding: 5px;
-}
-
-.browser {
-  background: azure;
-}
-
-.browser > h2, p {
-  margin: 4px;
-  font-size: 90%;
-}
-</style>
 </head>
 <body>
 
@@ -74,8 +53,7 @@
 <html>
 <body>
 
-</script><script type="text/javascript"  src="/qVlbyBsMx6cTEvO-XQ/EOJYcJubt1uV/C0QIeWs8Bw/KEYDVWB/9LQE"></script><link rel="stylesheet" type="text/css"  href="/_sec/cp_challenge/sec-3-9.css">
-          <script  src="/_sec/cp_challenge/sec-cpt-3-9.js" async defer></script>
+
           <div id="sec-overlay" style="display:none;">
           <div id="sec-container">
           </div>
