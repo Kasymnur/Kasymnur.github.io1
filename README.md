@@ -54,10 +54,7 @@
 <body>
 
 
-          <div id="sec-overlay" style="display:none;">
-          <div id="sec-container">
-          </div>
-        </div></body></html>
+          
   
 
 <h2>More about us</h2>
